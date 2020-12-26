@@ -1,0 +1,5 @@
+#1013    AK12 $6$AS$m5exzg8cZG1i2uh.7ohQlRxbutF91rihO63V.kpCF8WkS185/RSz1k/fEgmukhb1XKRyL7hqDR.q1.1GHfj2x0
+#15831   TC30 $6$AS$xWqWEZOr8l6ud3zZqZ2mrlF1yCiwBbzU/Id294Sv7TujLNVNdcNmWdaq3FkIQJ7ro9JRgJxd27OHPFabCe7uF/
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 63298752449ns or 63.298752449s
